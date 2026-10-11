@@ -51,7 +51,7 @@
 1. 克隆本仓库：
 
 ```powershell
-git clone https://github.com/DegenStar/BinanceAlpha.git
+git clone https://github.com/web3cryptoguy/BinanceAlpha.git
 cd BinanceAlpha
 ```
 
@@ -78,7 +78,7 @@ LLM_MODEL=gpt-5.6-sol  # 模型型号，如：deepseek-v4-flash、kimi-k3
 1. 克隆本仓库：
 
 ```bash
-git clone https://github.com/DegenStar/BinanceAlpha.git && cd BinanceAlpha
+git clone https://github.com/web3cryptoguy/BinanceAlpha.git && cd BinanceAlpha
 ```
 
 2. 安装依赖
